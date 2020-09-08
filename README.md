@@ -1,4 +1,4 @@
-<h2> Hi, I'm Davi Neves! <img src="https://media.giphy.com/media/3o7WIGxb4UDlYxZa1O/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Davi Neves! <img src="https://media.giphy.com/media/oL3kDXFGkBc9a/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/U3rYyVWOhXp64Yxr3r/giphy.gif" width="230">
 <p><em>Computer Science at <a href="https://www.fc.unesp.br/#!/">São Paulo State University in Bauru</a></br>
 
