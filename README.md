@@ -6,7 +6,7 @@
 [![Linkedin: davi-augusto](https://img.shields.io/badge/davi_augusto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-ab9413143/)
 </p>
 
-### <img src="https://media.giphy.com/media/KE5Wi6aSESsjVpO6vg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/vc0z5hIqODyhO/giphy.gif" width="50"> A little more about me...
 <!--
 **davimedio01/davimedio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
