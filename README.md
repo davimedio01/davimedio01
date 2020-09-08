@@ -16,3 +16,6 @@
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Facebook or LinkedIn.
 - ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!
 
+<p>
+<h4 align='center'>Forgiveness for Ugliness in Profile Photo</h4>
+</p>
