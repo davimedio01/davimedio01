@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning: AR Technology, C# (for Unity), C++ (for Competitive Programming), Kotlin and Python.
 - 💬 Ask me about: everything! I'm here to help you as I can :D.
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Facebook or LinkedIn.
-- ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!
+- ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!</br></br>
 
 <h4 align='center'>Quando os outros homens seguirem cegamente a verdade, lembra-te...Nada é verdade.</h4>
 <h4 align='center'>Quando os outros homens estiverem limitados pela moralidade ou pela lei, lembra-te...Tudo é permitido.</h4>
