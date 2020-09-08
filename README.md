@@ -3,7 +3,8 @@
 <p><em>Computer Science at <a href="https://www.fc.unesp.br/#!/">São Paulo State University in Bauru</a></br>
 
 [![Discord: DAVIMEDIO01#6637](https://img.shields.io/badge/DAVIMEDIO01-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
-[![Facebook: davi-neves](https://img.shields.io/badge/davi_neves-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/davi.augustonevesleite)
+[![Facebook: davi-neves](https://img.shields.io/badge/Davi_Neves-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/davi.augustonevesleite)
+[![Instagram: _davineves](https://img.shields.io/badge/davi_neves-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/_davineves/)
 [![Linkedin: davi-augusto](https://img.shields.io/badge/davi_augusto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-ab9413143/)
 </p>
 
