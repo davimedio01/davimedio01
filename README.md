@@ -2,9 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/U3rYyVWOhXp64Yxr3r/giphy.gif" width="230">
 <p><em>Computer Science at <a href="https://www.fc.unesp.br/#!/">São Paulo State University in Bauru</a></br>
 
+[![Facebook: davi-neves](https://img.shields.io/badge/davi_neves-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/davi.augustonevesleite)
+[![Linkedin: davi-augusto](https://img.shields.io/badge/davi_augusto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-ab9413143/)
+
 </p>
-
-
 <!--
 **davimedio01/davimedio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
