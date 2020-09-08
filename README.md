@@ -16,6 +16,5 @@
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Facebook or LinkedIn.
 - ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!
 
-<p>
-<h4 align='center'>Forgiveness for Ugliness in Profile Photo</h4>
-</p>
+<h4 align='center'>Quando os outros homens seguirem cegamente a verdade, lembra-te...Nada é verdade.</h4>
+<h4 align='center'>Quando os outros homens estiverem limitados pela moralidade ou pela lei, lembra-te...Tudo é permitido.</h4>
