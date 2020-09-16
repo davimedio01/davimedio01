@@ -18,6 +18,10 @@
 
 <h4 align='center'>When the world has fallen, and we stand alone.</h4>
 
+<p>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=davimedio01&cover_image=true">
+</p>
 <!--
 <h4 align='center'>Quando os outros homens seguirem cegamente a verdade, lembra-te...Nada é verdade.</h4>
 <h4 align='center'>Quando os outros homens estiverem limitados pela moralidade ou pela lei, lembra-te...Tudo é permitido.</h4>
