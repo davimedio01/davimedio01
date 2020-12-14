@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on: AR and Android projects.
 - 🌱 I’m currently learning: AR Technology, C# (for Unity), C++ (for Competitive Programming), Kotlin and Python.
 - 💬 Ask me about: everything! I'm here to help you as I can :D.
-- 📫 How to reach me: contact me in Discord <b>(! DAVIMEDIO01 ( ͡° ͜ʖ ͡°)#6637)</b>, Facebook or LinkedIn.
+- 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Facebook or LinkedIn.
 - ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!<br/><br/>
 
 <h4 align='center'>When the world has fallen, and we stand alone.</h4>
