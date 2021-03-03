@@ -8,7 +8,7 @@
 [![Linkedin: davi-augusto](https://img.shields.io/badge/davi_augusto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-ab9413143/)
 </p>
 
-### <img src="https://media.giphy.com/media/vc0z5hIqODyhO/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/HH2bb3Pjq5IB2/giphy.gif" width="50"> A little more about me...
 
 - 🔭 I’m currently working on: AR and Android projects.
 - 🌱 I’m currently learning: AR Technology, C# (for Unity), C++ (for Competitive Programming), Kotlin and Python.
