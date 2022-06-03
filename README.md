@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/HH2bb3Pjq5IB2/giphy.gif" width="50"> A little more about me...
 
 - 🔭 I’m currently working on: AR and Android projects.
-- 🌱 I’m currently learning: AR Technology, C# (for Unity), C++ (for Competitive Programming), Kotlin and Python.
+- 🌱 I’m currently learning: AR Technology, C# (for Unity), C++ (for Competitive Programming and UE4), Kotlin, Dart (for Flutter) and Python.
 - 💬 Ask me about: everything! I'm here to help you as I can :D.
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Facebook or LinkedIn.
 - ⚡ Fun fact: I love chocolate, Iron Maiden and Dark Souls!<br/><br/>
