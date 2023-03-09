@@ -20,7 +20,7 @@
 - 🌱 I’m constantly studying and learning about the following key technologies: AR Technology, C# (for Unity), Python (for ML), Web-related (HTML, CSS, JS) and Dart (for Flutter).
 - 💬 Ask me about: everything! (love a challenge).
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Instagram or LinkedIn.
-- ⚡ Fun fact: I love chocolate and music (rock n'roll yeah)!<br/><br/>
+- ⚡ Fun fact: I love chocolate and music (rock'n roll yeah)!<br/><br/>
 
 <h4 align='center'>When the world has fallen, and we stand alone.</h4>
 
