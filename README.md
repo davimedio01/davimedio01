@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on: AR projects.
 - 💼 I've knowledge in the following technologies: VR/AR/XR, C#, C/C++, Python, Dart (Flutter), Java.
-- 🌱 I’m constantly studying and learning about the following key technologies: AR Technology, C# (for Unity), Python (for ML), Web-related (HTML, CSS, JS) and Dart (for Flutter).
+- 🌱 I’m constantly studying and learning about the following key technologies: AR Technology, C# (for Unity), Python (for ML) and Dart (for Flutter).
 - 💬 Ask me about: everything! (love a challenge).
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Instagram or LinkedIn.
 - ⚡ Fun fact: I love chocolate and music (rock'n roll yeah)! And I'm a Genshin Impact player... (pain!)<br/><br/>
