@@ -15,9 +15,9 @@
 
 ### <img src="https://media.tenor.com/UAoW5D4BtZEAAAAi/bocchi-the-rock-bocchi-trash.gif" width="70"> A little more about me...
 
-- 🔭 I’m currently working on: AR projects.
+- 🔭 I’m currently working on: ML and AR projects.
 - 💼 I've knowledge in the following technologies: VR/AR/XR, C#, C/C++, Python, Dart (Flutter), Java.
-- 🌱 I’m constantly studying and learning about the following key technologies: AR Technology, C# (for Unity), Python (for ML) and Dart (for Flutter).
+- 🌱 I’m constantly studying and learning about the following key technologies: AR/XR and Python (Data Science and ML).
 - 💬 Ask me about: everything! (love a challenge).
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01#6637)</b>, Instagram or LinkedIn.
 - ⚡ Fun fact: I love chocolate and music (rock'n roll yeah)! And I'm a Genshin Impact player... (pain!)<br/><br/>
