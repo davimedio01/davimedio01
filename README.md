@@ -10,6 +10,7 @@
 -->
 [![Lattes](https://img.shields.io/badge/CV_Lattes-1B6AC6.svg?&style=for-the-badge&logo=null&logoColor=white)](https://lattes.cnpq.br/7534742373493737)
 [![Linkedin: davi-augusto](https://img.shields.io/badge/davi_augusto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto/)
+[![Linktree: davi_neves](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/davi_neves)
 [![E-mail: davi.neves@unesp.br](https://img.shields.io/badge/Davi_Neves-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi.neves@unesp.br)
 <!--[![Instagram: davineves](https://img.shields.io/badge/Davi_Neves-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davimedio01/)-->
 </p>
@@ -80,7 +81,6 @@
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ### <img src="https://media.tenor.com/UAoW5D4BtZEAAAAi/bocchi-the-rock-bocchi-trash.gif" width="70"> A little more about me...
 
