@@ -89,9 +89,9 @@
     - **Main Technologies:**
         - VR/AR/XR
         - Python
-        - HTML/CSS/JS
+        - .NET, C# and ASP.NET
     - **Secondary Technologies:**
-        - C#
+        - HTML/CSS/JS
         - C/C++
         - Flutter/Dart
         - Java (Desktop/Android)
