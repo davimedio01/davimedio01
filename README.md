@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Frontend Development
+<!--### Frontend Development
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,24 +35,24 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
-### Backend Development
+<!--### Backend Development
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
 
 ### Mobile Development
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+<!--![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) -->
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Cloud Services
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+and **Web (HTML/CSS/JS)** projects.![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Programming Languages
@@ -84,7 +84,7 @@
 
 ### <img src="https://media.tenor.com/UAoW5D4BtZEAAAAi/bocchi-the-rock-bocchi-trash.gif" width="70"> A little more about me...
 
-- 🔭 I’m currently working on: **Machine Learning (ML)**, **Deep Learning (DL)** and **Web (HTML/CSS/JS)** projects.
+- 🔭 I’m currently working on: **Machine Learning (ML)** and **Deep Learning (DL)** <!-- and **Web (HTML/CSS/JS)** --> projects.
 - 💼 I've knowledge in the following technologies:
     - **Main Technologies:**
         - VR/AR/XR
@@ -96,7 +96,7 @@
         - Flutter/Dart
         - Java (Desktop/Android)
         - Kotlin (Android)
-- 🌱 I’m constantly studying and learning about the following key technologies: **Machine Learning**,  **Deep Learning**, **Web Development**.
+- 🌱 I’m constantly studying and learning about the following key technologies: **Machine Learning**,  **Deep Learning**, **Data Science**.
 - 💬 Ask me about: everything! (love a challenge!).
 - 📫 How to reach me: contact me in Discord <b>(DAVIMEDIO01)</b>, LinkedIn or e-mail davi.neves@unesp.br.
 - ⚡ Fun fact: I love chocolate and music (rock'n roll yeah)! And I'm a HoYoverse player... (so much pain!)<br/><br/>
